@@ -1,5 +1,5 @@
 // Somna: service worker da versão web para celular (EXPO.md §8).
-// GERADO por scripts/web-celular.mjs — não edite. Versão f7eba07fd55d (hash do build publicado).
+// GERADO por scripts/web-celular.mjs — não edite. Versão ea0490cb86dd (hash do build publicado).
 (function servicoWorker(cfg) {
   'use strict';
   var CACHE = cfg.prefixo + cfg.versao;
@@ -186,4 +186,4 @@
       });
     });
   }
-})({"versao":"f7eba07fd55d","prefixo":"somna-web-","precache":["./","manifest.webmanifest","icones/favicon-32.png","icones/icone-192.png","icones/apple-touch-icon.png"],"estaticos":["manifest.webmanifest","icones/icone-192.png","icones/icone-512.png","icones/icone-maskable-512.png","icones/apple-touch-icon.png","icones/favicon-32.png","previa.png"],"prazoRedeMs":4000});
+})({"versao":"ea0490cb86dd","prefixo":"somna-web-","precache":["./","manifest.webmanifest","icones/favicon-32.png","icones/icone-192.png","icones/apple-touch-icon.png"],"estaticos":["manifest.webmanifest","icones/icone-192.png","icones/icone-512.png","icones/icone-maskable-512.png","icones/apple-touch-icon.png","icones/favicon-32.png","previa.png"],"prazoRedeMs":4000});
